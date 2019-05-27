@@ -14,7 +14,7 @@
       "member",
       "team"
     ],
-    "image": "https://raw.githubusercontent.com/rupok/essential-blocks-templates/dev/team-light-one/images/cover.jpeg"
+    "image": "https://raw.githubusercontent.com/rupok/essential-blocks-templates/dev/team-light-one/images/cover.jpg"
   },
   {
     "key": "eb-testimonial-demo",
@@ -31,7 +31,7 @@
     "category": [
       "features"
     ],
-    "image": "https://i.imgur.com/0ynMMea.png"
+    "image": "https://raw.githubusercontent.com/rupok/essential-blocks-templates/dev/testimonial-light-one/images/cover.jpg"
   },
   {
     "key": "Countdown demo",
@@ -48,7 +48,7 @@
       "features",
       "call-to-action"
     ],
-    "image": "http://wordpress.local/wp-content/uploads/2019/05/countdown-1024x166.png"
+    "image": "https://raw.githubusercontent.com/rupok/essential-blocks-templates/dev/countdown-dark-one/images/cover.jpg"
   },
   {
     "key": "eb-infobox-demo",
@@ -64,7 +64,7 @@
     "category": [
       "features"
     ],
-    "image": "http://wordpress.local/wp-content/uploads/2019/05/infobox-demo.png"
+    "image": "https://raw.githubusercontent.com/rupok/essential-blocks-templates/dev/infobox-ligt-one/images/cover.jpg"
   },
   {
     "key": "eb-call-to-action-demo-one",
@@ -80,7 +80,7 @@
       "carousel",
       "columns"
     ],
-    "image": "http://wordpress.local/wp-content/uploads/2019/05/call-to-action-demo.jpg"
+    "image": "https://raw.githubusercontent.com/rupok/essential-blocks-templates/dev/cta-light-one/images/cover.jpg"
   },
   {
     "key": "eb-interactive-promo-demo",
@@ -96,7 +96,7 @@
     "category": [
       "features"
     ],
-    "image": "http://wordpress.local/wp-content/uploads/2019/05/interactive-promo-demo.png"
+    "image": "https://raw.githubusercontent.com/rupok/essential-blocks-templates/dev/interactive-light-one/images/cover.jpg"
   },
   {
     "key": "eb-hero-demo-one",
@@ -111,7 +111,7 @@
     "category": [
       "features"
     ],
-    "image": "https://raw.githubusercontent.com/rupok/essential-blocks-templates/dev/hero-light-one/images/hero-demo-one.jpg"
+    "image": "https://raw.githubusercontent.com/rupok/essential-blocks-templates/dev/hero-light-one/images/cover.jpg"
   },
   {
     "key": "eb-hero-demo-two",
@@ -126,6 +126,6 @@
     "category": [
       "features"
     ],
-    "image": "http://wordpress.local/wp-content/uploads/2019/05/hero-demo-two.png"
+    "image": "https://raw.githubusercontent.com/rupok/essential-blocks-templates/dev/hero-light-two/images/cover.jpg"
   }
 ]
